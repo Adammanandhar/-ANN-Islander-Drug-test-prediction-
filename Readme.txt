@@ -1,9 +1,9 @@
-<h2> About the Project </h2>
+##** About the Project **##
 The project helps to predict the test score of Islander based on Anti-anxiety medication, age, and effect of medication.
 
 It make use of Artificial Neural Network to make the prediction.
 
-<h2>Project Features:</h2>
+##**Project Features:**##
 
 1) Data Cleaning
 2) Data Visualization
@@ -13,7 +13,8 @@ It make use of Artificial Neural Network to make the prediction.
 6) ANN Train
 7) Results and Evaluation
 
-<h2>Libraries:</h2>
+##**Libraries:**##
+
 1) Pandas
 2) Numpy
 3) Seaborn
