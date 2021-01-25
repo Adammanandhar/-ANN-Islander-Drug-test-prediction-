@@ -1,5 +1,5 @@
 # About the Project
-The project helps to predict the test score of Islander based on Anti-anxiety medication, age, and effect of medication.
+This project helps to predict the test score of Islander based on Anti-anxiety medication, age, and effect of medication.
 
 It make use of Artificial Neural Network to make the prediction.
 
